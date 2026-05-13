@@ -11,8 +11,7 @@ User input with basic validation using try/except
 Formatted output displaying booking details clearly
 
 ##Status
-In progress. Pseudocode design is in this repo.
-Final .ipynb will be uploaded after May 15, 2026.
+Complete!
 
 ## Course
 CSC-125-201, Spring 2026, Bunker Hill Community College
